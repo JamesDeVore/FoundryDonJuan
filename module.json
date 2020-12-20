@@ -1,5 +1,5 @@
 {
-  "name": "don-juan",
+  "name": "FoundryDonJuan",
   "title": "DonJon",
   "description": "Adds a dice tray below chat, and turns the d20 near chat into a dice calculator.",
   "version": "0.6.5",
@@ -7,10 +7,9 @@
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.7",
   "scripts": ["./scripts/init.js"],
-  "styles": [""],
+  "styles": [],
   "packs": [],
   "languages": [],
   "url": "",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://raw.githubusercontent.com/JamesDeVore/FoundryDonJuan/master/module.json"
 }
