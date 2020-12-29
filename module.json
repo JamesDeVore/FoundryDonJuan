@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.7",
   "scripts": ["./scripts/init.js"],
-  "styles": [],
+  "styles": ["./styles/style.css"],
   "packs": [],
   "languages": [],
   "url": "",

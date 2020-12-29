@@ -4,10 +4,12 @@
     Name of Dungeon
       <input type="text" id="dj_name">
   </div>
-  <div>Number of Rows<input type="number" id="dj_cols"></div>
-  <div>Number of Columns<input type="number" id="dj_rows"></div>
-  <div>
-    <img src="" id="dj_preview" height="250" width="250" alt="">
-    <button onclick=window.generatePreview()>Hi</button>
+  <div>Random Seed (optional)<input type="text" id="dj_seed"></div>
+  <div>Number of Rows<input type="number" id="dj_cols">
+  <div>Number of Columns<input type="number" id="dj_rows"></div></div>
+  <div >
+    <div id="preview_container"></div>
+    <img src="" alt="" height="500">
+    <button id="dj_preview_button" onclick=window.generatePreview()>Hi</button>
   </div>
 </div>
